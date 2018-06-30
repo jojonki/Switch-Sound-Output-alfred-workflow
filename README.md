@@ -1,6 +1,6 @@
 # Switch-Sound-Output-alfred-workflow
-This is an [Alfred workflow](https://www.alfredapp.com/workflows/) for switching your sound control.
-You can quickly switch your sound device!
+This is an [Alfred workflow](https://www.alfredapp.com/workflows/) for switching your sound device.
+You can quickly switch your output!
 
 The binary is released [here](https://github.com/jojonki/Switch-Sound-Output-alfred-workflow/releases).
 
